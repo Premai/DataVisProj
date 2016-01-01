@@ -1,0 +1,21 @@
+h2 {
+        text-align: left;
+        -webkit-margin-start: 45px;
+    }
+
+body { font: 12px Arial;}
+
+path { 
+    stroke: steelblue;
+    stroke-width: 2;
+    fill: none;
+}
+
+path[carrier_name="SkyWest Airlines Inc."] {
+            fill: "Red";
+            stroke: "Red";
+            stroke-width: 3;
+            stroke-opacity: 1;
+           
+        }
+
