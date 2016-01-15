@@ -1,6 +1,6 @@
 # U.S On time flight Arrival Performance
 Prema iyer  
-Wednesday, December 9, 2015  
+Thursday, December 31, 2015  
 
 **1. Citation**
 
@@ -316,6 +316,7 @@ http://bl.ocks.org/ <br />
 https://github.com/mbostock/d3/wiki/Gallery <br />
 Udacity "Data Visualization and D3.js" <br />
 
+### Rename the file to README.md
 
 
 ```
